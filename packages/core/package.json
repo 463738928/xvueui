@@ -1,0 +1,19 @@
+{
+  "name": "xv-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@xv-ui/components": "workspace:*",
+    "@xv-ui/theme": "workspace:*",
+    "@xv-ui/utils": "workspace:*"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
