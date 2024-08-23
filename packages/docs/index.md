@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "xv-ui"
-  text: "测试UI模块"
+  text: "邓婷婷测试UI模块"
   tagline: My great project tagline
   actions:
     - theme: brand
